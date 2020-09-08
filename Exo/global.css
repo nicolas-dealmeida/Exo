@@ -1,0 +1,93 @@
+
+/*          CSS BODY            */
+
+html, body {
+margin: 0;
+padding: 0;
+}
+body {
+background-color: white; 
+font-family: Verdana, sans-serif; 
+font-size: 100%;
+}
+
+/*          CSS TITRES et TEXTES            */
+
+h1 {
+font-size: 2;
+}
+h2 {
+font-size: 3;
+}
+h3 {
+font-size: 4;
+}
+h4 {
+font-size: 5;
+}
+h5 {
+font-size: 6;
+}
+h6 {
+font-size: 7;
+}
+
+p {
+color: black; 
+}
+
+/*          CSS SPECIFIQUES            */
+
+/*          CSS COULEURS            */
+
+.ROUGE {
+color: red;
+}
+.BLEU {
+    color: blue;
+}
+.JAUNE {
+color: yellow;
+}
+.NOIR {
+color: black;
+}
+.BLANC {
+color: white;
+}
+
+/*          CSS PLACEMENTS            */
+
+hr {
+	display: block;
+	height: 5;
+	margin: 10px 0 10px;
+	line-height: 10;
+}
+
+.TexteCentre {
+text-align: center;
+}
+.TexteGauche {
+text-align: left;
+}
+.TexteDroite {
+text-align: right;
+}
+
+/*          CSS LIENS            */
+
+a:link {
+color: green;
+text-decoration: underline;
+}
+a:visited {
+color: gray;
+}
+a:hover {
+color: red;
+text-decoration: none;
+}
+a:active, a:focus {
+color: red;
+}
