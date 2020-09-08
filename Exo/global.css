@@ -1,5 +1,5 @@
 
-/*          CSS BODY            */
+/*          CSS HTML et BODY            */
 
 html, body {
 margin: 0;
@@ -91,3 +91,15 @@ text-decoration: none;
 a:active, a:focus {
 color: red;
 }
+
+/*          CSS TABLEAUX            *
+
+table,td {
+border: 2px solid #333;
+}
+
+thead,tfoot {
+background-color: #333;
+color: #fff;
+}
+									*/
