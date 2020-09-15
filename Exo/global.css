@@ -42,6 +42,11 @@ color: black;
 margin:20px 5px 5px 5px;
 }
 
+.Adresse-Form {
+margin-left:0px;
+margin-right:200px;
+}
+
 /*          CSS COULEURS            */
 
 .ROUGE {
@@ -69,10 +74,10 @@ color: cyan;
 /*          CSS PLACEMENTS            */
 
 hr {
-	display: block;
-	height: 5;
-	margin: 10px 0 10px;
-	line-height: 10;
+display: block;
+height: 5;
+margin: 10px 0 10px;
+line-height: 10;
 }
 
 .TexteCentre {
